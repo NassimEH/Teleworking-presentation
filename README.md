@@ -60,4 +60,4 @@ Through this project, I deepened my knowledge of the legal framework for remote 
 
 ### Image
 
-![Présentation Droits des Femmes et Violence Domestique](droitsocial.png)
+![Présentation sur le télétravail](coverdroit.png)
